@@ -3,12 +3,12 @@
 }
 
 .App-logo {
-    border-radius: 25px;
-    height: 20vmin;
+  border-radius: 25px;
+  height: 20vmin;
 }
 
 .App-header {
-    background-color: #eeeeee;
+  background-color: #eeeeee;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,8 +19,8 @@
 }
 
 .App-header a {
-    color: black;
-    font-family: Tahoma;
+  color: black;
+  font-family: Tahoma;
 }
 
 .App-link {
@@ -28,19 +28,19 @@
 }
 
 .name {
-    font-family: monospace;
-    font-size: 4vmin;
-    color: black;
-    padding-bottom: 0px;
-    margin-block-end: 0em;
+  font-family: monospace;
+  font-size: 4vmin;
+  color: black;
+  padding-bottom: 0px;
+  margin-block-end: 0em;
 }
 
 .title {
-    font-family: monospace;
-    font-size: 3vmin;
-    color: darkgrey;
-    padding-top: 0px;
-    margin-block-start: 0em;
+  font-family: monospace;
+  font-size: 3vmin;
+  color: darkgrey;
+  padding-top: 0px;
+  margin-block-start: 0em;
 }
 
 @keyframes App-logo-spin {
